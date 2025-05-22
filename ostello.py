@@ -3,7 +3,7 @@ from streamlit.components.v1 import html
 
 # Set page config
 st.set_page_config(
-    page_title="Kashish Bhasin - AI & Product Intern Application - Ostello",
+    page_title="Kashish Bhasin - AI & Product",
     page_icon="🎮",
     layout="wide"
 )
@@ -13,19 +13,19 @@ st.markdown("""
     <style>
         .header {
             font-size: 2.5em;
-            color: #6366F1;
+            color: #FFC0CB;
             border-bottom: 2px solid #6366F1;
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
         .section-header {
             font-size: 1.8em;
-            color: #6366F1;
+            color: #FFC0CB;
             margin-top: 30px;
             margin-bottom: 15px;
         }
         .highlight {
-            background-color: #a2b8ff;
+            background-color: #E37383;
             padding: 15px;
             border-radius: 8px;
             border-left: 4px solid #6366F1;
@@ -36,7 +36,7 @@ st.markdown("""
             border-bottom: 1px solid #eee;
         }
         .cta-button {
-            background-color: #4F46E5 !important;
+            background-color: #E0115F !important;
             color: white !important;
             font-weight: bold !important;
             padding: 10px 20px !important;
@@ -44,10 +44,10 @@ st.markdown("""
             margin-top: 30px !important;
         }
         .project-card {
-            border-left: 4px solid #6366F1;
+            border-left: 4px solid #FFC0CB;
             padding: 15px;
             margin-bottom: 20px;
-            background-color: #F9FAFB;
+            background-color: #E0115F;
             border-radius: 5px;
         }
         .gamification-icon {
@@ -57,13 +57,13 @@ st.markdown("""
         }
         .progress-bar {
             height: 10px;
-            background-color: #E0E7FF;
+            background-color: #f5b7cf;
             border-radius: 5px;
             margin-bottom: 5px;
         }
         .progress-fill {
             height: 10px;
-            background-color: #6366F1;
+            background-color: #ef88af;
             border-radius: 5px;
         }
     </style>
