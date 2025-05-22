@@ -73,7 +73,7 @@ st.markdown("""
 col1, col2 = st.columns([3, 1])
 with col1:
     st.markdown('<div class="header">Kashish Bhasin</div>', unsafe_allow_html=True)
-    st.markdown('**AI & Product Intern | Gamification & EdTech Enthusiast**')
+    st.markdown('**AI & Product | Gamification & EdTech Enthusiast**')
     st.markdown('*BTech in Computer Science with AI/ML specialization with experience in product management, AI systems, and personalized learning platforms*')
 
 with col2:
