@@ -422,8 +422,8 @@ else:
     """, unsafe_allow_html=True)
 
 # "Join The Quest" CTA Button (renamed from "Hire Me")
-if st.button("Join The Quest!", key="join_quest", help="Click to show your interest"):
-    st.success("Ready to help Ostello revolutionize learning! 🚀")
+if st.button("Hire Me!", key="join_quest", help="Click to show your interest"):
+    st.success("Ready to join The Quest! 🚀")
     st.balloons()
 
 # Footer
