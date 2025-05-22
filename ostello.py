@@ -25,7 +25,7 @@ st.markdown("""
             margin-bottom: 15px;
         }
         .highlight {
-            background-color: #EEF2FF;
+            background-color: #a2b8ff;
             padding: 15px;
             border-radius: 8px;
             border-left: 4px solid #6366F1;
